@@ -1,0 +1,8 @@
+﻿  P01-317189953.cpp
+C:\Users\sakur\Downloads\opengl 3.3 y dos main\P01-317189953.cpp(138,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  Generando código
+  6 of 140 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  practica1.vcxproj -> C:\Users\sakur\source\repos\practica1\x64\Release\P01-317189953.exe
