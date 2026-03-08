@@ -1,0 +1,24 @@
+﻿  P03-317189953.cpp
+C:\Users\sakur\Downloads\practica3\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../../../../Downloads/practica3/P03-317189953.cpp")
+  
+C:\Users\sakur\Downloads\practica3\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../../../../Downloads/practica3/P03-317189953.cpp")
+  
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(27,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(199,79): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(199,63): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(237,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(237,32): warning C4244:         with
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(237,32): warning C4244:         [
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(237,32): warning C4244:             _Ty=GLfloat
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(237,32): warning C4244:         ]
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(239,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(239,32): warning C4244:         with
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(239,32): warning C4244:         [
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(239,32): warning C4244:             _Ty=GLfloat
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(239,32): warning C4244:         ]
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(246,59): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(429,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\Downloads\practica3\P03-317189953.cpp(431,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  P03-317189953.vcxproj -> C:\Users\sakur\source\repos\P03-317189953\x64\Debug\P03-317189953.exe
