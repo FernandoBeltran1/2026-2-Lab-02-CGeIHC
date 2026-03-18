@@ -1,0 +1,42 @@
+﻿  P04-317189953.cpp
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P04-317189953.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P04-317189953.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(28,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(195,79): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(195,63): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(233,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(233,32): warning C4244:         with
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(233,32): warning C4244:         [
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(233,32): warning C4244:             _Ty=GLfloat
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(233,32): warning C4244:         ]
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(235,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(235,32): warning C4244:         with
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(235,32): warning C4244:         [
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(235,32): warning C4244:             _Ty=GLfloat
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(235,32): warning C4244:         ]
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(242,59): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(344,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\P04-317189953.cpp(346,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Window.cpp
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.cpp(226,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.cpp(227,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.cpp(231,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.cpp(232,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.cpp(234,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P0-317189953\P0-317189953\Window.cpp(235,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  19 of 643 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  P0-317189953.vcxproj -> C:\Users\sakur\source\repos\practica4\P0-317189953\x64\Release\P0-317189953.exe
