@@ -1,0 +1,10 @@
+﻿  P05-317189953.cpp
+C:\Users\sakur\source\repos\practica4\P05-317189953\P05-317189953\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P05-317189953.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P05-317189953\P05-317189953\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P05-317189953.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P05-317189953\P05-317189953\P05-317189953.cpp(166,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P05-317189953\P05-317189953\P05-317189953.cpp(168,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  P05-317189953.vcxproj -> C:\Users\sakur\source\repos\practica4\P05-317189953\x64\Debug\P05-317189953.exe

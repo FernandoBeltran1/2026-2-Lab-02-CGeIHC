@@ -1,0 +1,97 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl 4_Mesh5_0.35_0_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_steering.png
+map_Bump C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_steering_normal.png
+
+newmtl 4_Mesh7_0.35_0_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_mirror.png
+map_Bump C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_normal.png
+
+newmtl 4_Mesh8_0.35_0_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_mesh.png
+map_Bump C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_mesh_normal.png
+
+newmtl 5_Mesh1_0_0_0_root_root
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar.png
+map_Bump C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_normal.png
+
+newmtl 5_Mesh4_0.35_0_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_silver.png
+
+newmtl 5_Mesh9_0.35_0_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_underside.png
+
+newmtl 6_Mesh6_0.35_0_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_headlightsborder.png
+map_d C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_headlightsborder.png
+map_Bump C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_headlightsborder_normal.png
+
+newmtl 7_Mesh2_0.35_0_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_headlights.png
+map_d C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_headlights.png
+
+newmtl 7_Mesh3_0.35_0_0
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_windshield.png
+map_d C:/Users/sakur/Downloads/PC _ Computer - Sonic & SEGA All-Stars Racing - Vehicles - Speed Star/soniccar_windshield.png
