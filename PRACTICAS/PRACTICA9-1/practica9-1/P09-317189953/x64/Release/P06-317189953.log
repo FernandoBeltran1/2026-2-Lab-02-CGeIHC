@@ -1,0 +1,53 @@
+﻿  Camera.cpp
+  Mesh_tn.cpp
+  Model.cpp
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Model.cpp(16,10): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'const std::string'
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Model.cpp(16,80): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+      C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Model.cpp(16,80):
+      los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+  
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Model.cpp(51,7): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Model.cpp(110,78): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Model.cpp(110,62): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Model.cpp(133,40): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  P06-317189953.cpp
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P06-317189953.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P06-317189953.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\P06-317189953.cpp(91,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\P06-317189953.cpp(301,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\P06-317189953.cpp(303,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Shader_m.cpp
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Shader_m.cpp(139,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  Skybox.cpp
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Skybox.cpp(30,47): warning C4267: 'argumento': conversión de 'size_t' a 'GLenum'; posible pérdida de datos
+  Sphere.cpp
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Sphere.cpp(39,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Sphere.cpp(43,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Sphere.cpp(91,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Sphere.cpp(94,51): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Sphere.cpp(98,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Sphere.cpp(108,42): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  Texture.cpp
+  Window.cpp
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.cpp(139,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.cpp(140,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.cpp(144,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.cpp(145,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.cpp(147,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.cpp(148,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\sakur\source\repos\practica4\P06-317189953\P06-317189953\Window.cpp(75): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  All 1088 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  P06-317189953.vcxproj -> C:\Users\sakur\source\repos\practica4\P06-317189953\x64\Release\P06-317189953.exe

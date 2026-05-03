@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (P06-317189953.vcxproj, P07-317189953.vcxproj, P08-317189953.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  P09-1-317189953.cpp
+C:\Users\sakur\source\repos\practica4\P09-317189953\P09-317189953\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P09-1-317189953.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P09-317189953\P09-317189953\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P09-1-317189953.cpp")
+  
+C:\Users\sakur\source\repos\practica4\P09-317189953\P09-317189953\P09-1-317189953.cpp(223,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P09-317189953\P09-317189953\P09-1-317189953.cpp(514,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P09-317189953\P09-317189953\P09-1-317189953.cpp(516,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\sakur\source\repos\practica4\P09-317189953\P09-317189953\P09-1-317189953.cpp(810,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\sakur\source\repos\practica4\P09-317189953\P09-317189953\P09-1-317189953.cpp(888,21): warning C4305: '=': truncamiento de 'double' a 'float'
+  Generando código
+  0 of 1216 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  P09-317189953.vcxproj -> C:\Users\sakur\source\repos\practica4\P09-317189953\x64\Release\P09-317189953.exe
